@@ -1,0 +1,10 @@
+{
+  "name": "Gabriel Crispim",
+  "social": [
+    "https://www.linkedin.com/in/gabriel-gomes-crispim"
+  ],
+  "source-code-repo": "https://github.com/ggcrispim/rinha-de-backend",
+  "langs": ["java"],
+  "storages": ["postgresql"],
+  "messaging": ["redis"]
+}
