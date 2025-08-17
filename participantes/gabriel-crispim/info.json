@@ -5,6 +5,7 @@
   ],
   "source-code-repo": "https://github.com/ggcrispim/rinha-de-backend",
   "langs": ["java"],
+  "frameworks": ["quarkus"],
   "storages": ["postgresql"],
   "messaging": ["redis"]
 }
